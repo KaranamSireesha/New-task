@@ -72,13 +72,17 @@ ul.brcr li + li:before {
 }
 
 .price {
-  width: 80px;
-  height: 30px;
+  width: 60px;
+  height: 25px;
   border-radius: 0 20px 20px 20px;
   background-color: #f9f6f6;
   position: absolute;
-  top: 17px;
-  left: 19px;
+  top: 35px;
+  left: 35px;
+}
+
+.btn {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .pages {
@@ -158,3 +162,5 @@ ul.brcr li + li:before {
         text-align: start;
     }
 }
+
+
